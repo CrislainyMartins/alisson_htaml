@@ -1,6 +1,6 @@
 body{
     margin: 0 auto;
-    background-color: rgb(56, 132, 173);
+    background-color: rgb(157, 210, 238);
     text-align: center;
     text-decoration color: #f6f6f6;
     font-family:first-letter;
@@ -19,7 +19,6 @@ li{
 
 main{
     text-align: center;
-    background-color: rgb(195, 190, 190);
     height: 1000px;
     width: 50px 0px 0px 50px;
 }
@@ -46,6 +45,6 @@ p{
     font-size: 25px;
     text-align: center;
     text-align: justify;
-    margin: 0 10px 0 10px;
+    margin: 0 60px 0 60px;
 
 }
